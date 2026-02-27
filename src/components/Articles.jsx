@@ -47,7 +47,7 @@ export default function Articles() {
         >
           В ПОМОЩЬ<br />РАЗРАБОТЧИКУ
         </h2>
-        <img src="//Component.png" alt="" className="w-[60px] object-contain" />
+        <img src="/Component.png" alt="" className="w-[60px] object-contain" />
       </div>
 
       {/* Columns */}

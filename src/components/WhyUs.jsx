@@ -14,7 +14,7 @@ export default function WhyUs() {
           </h2>
         </div>
         <div className="rounded-[8px] overflow-hidden">
-          <img src="//WhyUs.png" alt="" className="w-full h-full object-cover" />
+          <img src="/WhyUs.png" alt="" className="w-full h-full object-cover" />
         </div>
       </div>
 
@@ -30,7 +30,7 @@ export default function WhyUs() {
           </p>
         </div>
         <div className="rounded-[8px] overflow-hidden">
-          <img src="//WhyUs1.png" alt="" className="w-full h-full object-cover" />
+          <img src="/WhyUs1.png" alt="" className="w-full h-full object-cover" />
         </div>
         <div className="bg-[#E65910] rounded-[8px] px-[24px] py-[24px]">
           <p className="text-white text-[13px] leading-[18px] font-semibold mb-[12px]"
@@ -46,7 +46,7 @@ export default function WhyUs() {
 
       <div className="grid grid-cols-3 gap-[16px] mb-[48px]">
         <div className="rounded-[8px] overflow-hidden">
-          <img src="//WhyUs2.png" alt="" className="w-full h-full object-cover" />
+          <img src="/WhyUs2.png" alt="" className="w-full h-full object-cover" />
         </div>
         <div className="bg-[#E65910] rounded-[8px] px-[24px] py-[24px]">
           <p className="text-white text-[13px] leading-[18px] font-semibold mb-[12px]"
@@ -59,7 +59,7 @@ export default function WhyUs() {
           </p>
         </div>
         <div className="rounded-[8px] overflow-hidden">
-          <img src="//WhyUs3.png" alt="" className="w-full h-full object-cover" />
+          <img src="/WhyUs3.png" alt="" className="w-full h-full object-cover" />
         </div>
       </div>
 

@@ -70,7 +70,7 @@ export default function Footer() {
                   onError={(e) => (e.target.style.display = "none")}
                 />
                 <div>
-                  <img src="//logo.png" alt="" />
+                  <img src="/logo.png" alt="" />
                 </div>
                 <div>
                   <div className="flex items-center gap-1">
