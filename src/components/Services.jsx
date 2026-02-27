@@ -3,7 +3,7 @@ import React from 'react'
 const services = [
   { name: "Разработка ВЧ/СВЧ устройств", img: "//Services1.png" },
   { name: "Обработка керамики", img: "//Services2.png" },
-  { name: "Металлобработка", img: "//Services(.png" },
+  { name: "Металлобработка", img: "//Services3.png" },
   { name: "Лазерная обработка материалов", img: "//Services4.png" },
 ];
 
