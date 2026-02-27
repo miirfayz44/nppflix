@@ -5,19 +5,19 @@ const news = [
     tag: "в отрасли",
     date: "13 декабря 2023",
     name: "Чрезвычайно огромное название этой тематической статьи как раз умещающееся в максимум три строки",
-    img: "/public/new.png",
+    img: "//new.png",
   },
   {
     tag: "в мире",
     date: "13 декабря 2023",
     name: "Чрезвычайно огромное название этой тематической статьи как раз умещающееся в максимум три строки",
-    img: "/public/new.png",
+    img: "//new.png",
   },
   {
     tag: "в мире",
     date: "13 декабря 2023",
     name: "Чрезвычайно огромное название этой тематической статьи как раз умещающееся в максимум три строки",
-    img: "/public/new.png",
+    img: "//new.png",
   },
 ]
 
@@ -38,7 +38,7 @@ export default function News() {
           >
             НОВОСТИ
           </h2>
-          <img src="/public/Component.png" alt="" className="w-[60px] object-contain" />
+          <img src="//Component.png" alt="" className="w-[60px] object-contain" />
         </div>
 
         <div className="grid grid-cols-3 gap-[20px] mb-[40px]">
@@ -88,13 +88,13 @@ export default function News() {
               onClick={prev}
               className="w-[36px] h-[36px]  flex items-center justify-center text-gray-400 hover:text-black transition-colors text-[24px]"
             >
-            <img src="/public/5de544a178a8843fe056bc1d49e0389fa3c4a2e0.png" alt="" />
+            <img src="//5de544a178a8843fe056bc1d49e0389fa3c4a2e0.png" alt="" />
             </button>
             <button
               onClick={next}
               className="w-[36px] h-[36px] flex items-center justify-center text-gray-400 hover:text-black transition-colors text-[24px]"
             >
-              <img src="/public/0bbc367be1e2635e5ae2d4e365db9af3339fc5ec.png" alt="" />
+              <img src="//0bbc367be1e2635e5ae2d4e365db9af3339fc5ec.png" alt="" />
             </button>
           </div>
 

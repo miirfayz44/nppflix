@@ -4,7 +4,7 @@ export default function CallToAction() {
   return (
     <div className="relative w-full overflow-hidden bg-[#000000] mt-[60px]">
       <img
-        src="/public/bg_img.png"
+        src="//bg_img.png"
         alt=""
         className="absolute inset-0 w-full h-full object-cover"
       />
