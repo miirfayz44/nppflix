@@ -30,7 +30,7 @@ export default function WhyUs() {
           </p>
         </div>
         <div className="rounded-[8px] overflow-hidden">
-          <img src="/public/WhyUs 1.png" alt="" className="w-full h-full object-cover" />
+          <img src="/public/WhyUs1.png" alt="" className="w-full h-full object-cover" />
         </div>
         <div className="bg-[#E65910] rounded-[8px] px-[24px] py-[24px]">
           <p className="text-white text-[13px] leading-[18px] font-semibold mb-[12px]"
