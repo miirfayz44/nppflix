@@ -1,10 +1,10 @@
 import React from 'react'
 
 const services = [
-  { name: "Разработка ВЧ/СВЧ устройств", img: "//Services(1).png" },
-  { name: "Обработка керамики", img: "//Services(2).png" },
-  { name: "Металлобработка", img: "//Services(3).png" },
-  { name: "Лазерная обработка материалов", img: "//Services(4).png" },
+  { name: "Разработка ВЧ/СВЧ устройств", img: "//Services1.png" },
+  { name: "Обработка керамики", img: "//Services2.png" },
+  { name: "Металлобработка", img: "//Services(.png" },
+  { name: "Лазерная обработка материалов", img: "//Services4.png" },
 ];
 
 export default function Services() {
